@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**monahton/monahton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+This is Monah Abou Alezz github account. :smile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+- 🔭 I’m currently working on scRNA-Seq data
+- 🌱 I’m currently learning new Machine Learning apporaches
+- 👯 I’m looking to collaborate on any Bioinformatics project
+- 🤔 I’m looking for help with scientifc writing
+- 💬 Ask me about anything
+- 📫 How to reach me: aboualezz.monah@hsr.it
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Italy has a free wine fountain
+
