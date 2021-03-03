@@ -3,7 +3,10 @@
 <br />
 
 This is Monah Abou Alezz github account. :smile:
-  *_“The code works” isn’t where you stop; it’s where you start._
+
+<br />
+
+_“The code works” isn’t where you stop; it’s where you start._
 
 <br />
 
