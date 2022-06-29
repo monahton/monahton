@@ -17,5 +17,5 @@ _“The code works” isn’t where you stop; it’s where you start._
 - 💬 Ask me about anything
 - 📫 How to reach me: aboualezz.monah@hsr.it
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Italy has a free wine fountain
+- ⚡ Fun fact: Python was named after a comedy group called "Monty Python" and not the snake 🐍
 
