@@ -34,15 +34,20 @@ _“The code works” isn’t where you stop; it’s where you start._
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="linux" src="https://img.shields.io/badge/linux%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />
 
+</br>
+
 ## Research
 
 [<img align="left" alt="orcid" src="https://img.shields.io/badge/orcid-%A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white" />](https://orcid.org/0000-0002-2006-4250)
 [<img align="left" alt="google-scholar" src="https://img.shields.io/badge/googlescholar-1DA1F2.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=mrLcWsEAAAAJ&hl=en)
+
+</br>
 
 ## Contact
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/monah-abou-alezz-phd-06a948ba)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MonahAbouAlezz)
 
+</br>
 
 
