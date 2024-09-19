@@ -29,10 +29,11 @@ _“The code works” isn’t where you stop; it’s where you start._
   ## Skills
 
 <img align="left" alt="r" src="https://img.shields.io/badge/r%20-276DC3.svg?&style=for-the-badge&logo=r&logoColor=acadb1" />
+<img align="left" alt="python" src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="bash" src="https://img.shields.io/badge/bash%20-171A21.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="linux" src="https://img.shields.io/badge/linux%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+
 
 </br>
 
