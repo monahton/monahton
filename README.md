@@ -10,7 +10,7 @@ _“The code works” isn’t where you stop; it’s where you start._
 
 <br />
 
-- 🔭 I’m currently working on scRNA-Seq data
+- 🔭 I’m currently working on scRNAseq data
 - 🌱 I’m currently learning new Machine Learning apporaches
 - 👯 I’m looking to collaborate on any Bioinformatics project
 - 🤔 I’m looking for help with scientifc writing
