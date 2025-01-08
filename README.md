@@ -40,7 +40,7 @@ _“The code works” isn’t where you stop; it’s where you start._
 ## Research
 
 [<img align="left" alt="orcid" src="https://img.shields.io/badge/orcid-%A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white" />](https://orcid.org/0000-0002-2006-4250)
-[<img align="left" alt="google-scholar" src="https://img.shields.io/badge/googlescholar-1DA1F2.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=mrLcWsEAAAAJ&hl=en)
+[<img align="left" alt="google-scholar" src="https://img.shields.io/badge/googlescholar-1DA1F2.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=882eaNUAAAAJ&hl=en)
 
 </br>
 
