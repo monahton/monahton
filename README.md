@@ -1,23 +1,31 @@
 ### Hello World! 👋
 
+![Visitors](https://komarev.com/ghpvc/?username=monahton&style=flat-square&color=brightgreen)
+[![Website](https://img.shields.io/badge/website-online-blue?style=flat-square&logo=github)](https://monahton.github.io)
+[![Email](https://img.shields.io/badge/email-aboualezz.monah%40hsr.it-red?style=flat-square&logo=gmail)](mailto:aboualezz.monah@hsr.it)
+![R](https://img.shields.io/badge/R-📊-blue?style=flat-square&logo=r)
+![Python](https://img.shields.io/badge/Python-🐍-yellow?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/Bash-💻-black?style=flat-square&logo=gnubash)
+![Perl](https://img.shields.io/badge/Perl-🧬-purple?style=flat-square&logo=perl)
+
 <br />
 
-This is Monah Abou Alezz github account. :smile:
-
+👋 I'm Dr. Monah Abou Alezz, a postdoctoral researcher at San Raffaele Hospital – Telethon Institute of Gene Therapy, using computational biology to untangle life’s molecular spaghetti.
 <br />
 
 _“The code works” isn’t where you stop; it’s where you start._
 
 <br />
 
-- 🔭 I’m currently working on scRNAseq data
-- 🌱 I’m currently learning new Machine Learning apporaches
-- 👯 I’m looking to collaborate on any Bioinformatics project
-- 🤔 I’m looking for help with scientifc writing
-- 💬 Ask me about anything
-- 📫 How to reach me: aboualezz.monah@hsr.it
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Python was named after a comedy group called "Monty Python" and not the snake 🐍
+- 🧬 I specialize in single-cell RNA-seq analysis, integrating transcriptomic insights with computational methods to explore gene regulation, cell states, and therapeutic targets.
+- 💻 My toolbox includes R, Python, Bash, and Perl, with strong focus on data visualization, genomic annotation, and pipeline development.
+- 🔍 Currently exploring machine learning applications in genomics to push the boundaries of data-driven biology.
+- 🧪 I teach bioinformatics globally & mentor with a smile 😄
+- 🤝 I'm open to collaborations on bioinformatics projects, particularly those involving RNA biology, gene therapy, or spatial transcriptomics.
+- 💬 Always happy to talk about code, science, reproducibility, or how to build better tools for medical and life sciences.
+- 📫 Email me at: aboualezz.monah@hsr.it
+- 🌍 Website: [monahton.github.io](https://monahton.github.io) 
+- 🐍 Fun fact: Python is named after Monty Python band, and not the snake.
 
 
 <p align="center">
