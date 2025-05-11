@@ -10,7 +10,7 @@
 
 <br />
 
-👋 I'm Dr. Monah Abou Alezz, a postdoctoral researcher at San Raffaele Hospital – Telethon Institute of Gene Therapy, using computational biology to untangle life’s molecular spaghetti.
+👋 I'm Dr. Monah Abou Alezz, a postdoctoral researcher at San Raffaele Hospital – Telethon Institute of Gene Therapy
 <br />
 
 <br />
@@ -19,7 +19,7 @@ _“The code works” isn’t where you stop; it’s where you start._
 
 <br />
 
-- 🧬 I specialize in single-cell RNA-seq analysis, integrating transcriptomic insights with computational methods to explore gene regulation, cell states, and therapeutic targets.
+- 🧬 I specialize in Computational Biology analyses, integrating computational methods to explore gene regulation, cell states, and therapeutic targets.
 - 💻 My toolbox includes R, Python, Bash, and Perl, with strong focus on data visualization, genomic annotation, and pipeline development.
 - 🔍 Currently exploring machine learning applications in genomics to push the boundaries of data-driven biology.
 - 🧪 I teach bioinformatics globally & mentor with a smile 😄
@@ -42,6 +42,7 @@ _“The code works” isn’t where you stop; it’s where you start._
 <img align="left" alt="r" src="https://img.shields.io/badge/r%20-276DC3.svg?&style=for-the-badge&logo=r&logoColor=acadb1" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=yellow" />
 <img align="left" alt="bash" src="https://img.shields.io/badge/bash%20-171A21.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
+<img align="left" alt="perl" src="https://img.shields.io/badge/perl%20-276DC3.svg?&style=for-the-badge&logo=perl&logoColor=purple" />
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="linux" src="https://img.shields.io/badge/linux%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />
 
