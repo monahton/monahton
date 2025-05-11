@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/email-aboualezz.monah%40hsr.it-red?style=flat-square&logo=gmail)](mailto:aboualezz.monah@hsr.it)
 ![R](https://img.shields.io/badge/R-📊-blue?style=flat-square&logo=r)
 ![Python](https://img.shields.io/badge/Python-🐍-yellow?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/Bash-💻-green?style=flat-square&logo=gnubash)
+![Bash](https://img.shields.io/badge/Bash-💻-brightgreen?style=flat-square&logo=gnubash)
 ![Perl](https://img.shields.io/badge/Perl-🧬-purple?style=flat-square&logo=perl)
 
 <br />
