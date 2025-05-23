@@ -11,7 +11,7 @@
 <br />
 
 👋 I'm Dr. Monah Abou Alezz, a postdoctoral researcher at San Raffaele Hospital – Telethon Institute of Gene Therapy.  
-You can find more info about me on my [website](https://monahton.github.io/).
+🌍 You can find more info about me on my [website](https://monahton.github.io/).
 <br />
 
 <br />
@@ -21,13 +21,12 @@ _“The code works” isn’t where you stop; it’s where you start._
 <br />
 
 - 🧬 I specialize in Computational Biology analyses, integrating computational methods to explore gene regulation, cell states, and therapeutic targets.
-- 💻 My toolbox includes R, Python, Bash, and Perl, with strong focus on data visualization, genomic annotation, and pipeline development.
+- 💻 My toolbox includes R, Python, Bash, and Perl, with strong focus on data visualization, genomic annotation, packages and pipeline development.
 - 🔍 Currently exploring machine learning applications in genomics to push the boundaries of data-driven biology.
 - 🧪 I teach bioinformatics globally & mentor with a smile 😄
 - 🤝 I'm open to collaborations on bioinformatics projects, particularly those involving RNA biology, gene therapy, or spatial transcriptomics.
 - 💬 Always happy to talk about code, science, reproducibility, or how to build better tools for medical and life sciences.
 - 📫 Email me at: aboualezz.monah@hsr.it
-- 🌍 Website: [monahton.github.io](https://monahton.github.io) 
 - 🐍 Fun fact: Python is named after Monty Python band, and not the snake.
 
 
