@@ -62,4 +62,13 @@ _“The code works” isn’t where you stop; it’s where you start._
 
 </br>
 
+## Packages
+
+| Package | Website | Issues | Pull requests |
+|:-------:|--------:|-------:|--------------:|
+| [NatChat](https://github.com/monahton/NatChat) | [![Website](https://img.shields.io/badge/docs-website-blue)](https://monahton.github.io/NatChat/) | [![GitHub
+issues](https://img.shields.io/github/issues/monahton/NatChat)](https://github.com/monahton/NatChat/issues) | [![GitHub pulls](https://img.shields.io/github/issues-pr/monahton/NatChat)](https://github.com/monahton/NatChat/pulls) |
+| [GencoDymo2](https://github.com/monahton/GencoDymo2) | [![Website](https://img.shields.io/badge/docs-website-blue)](https://monahton.github.io/GencoDymo2/) | [![GitHub
+issues](https://img.shields.io/github/issues/monahton/GencoDymo2)](https://github.com/monahton/GencoDymo2/issues) | [![GitHub pulls](https://img.shields.io/github/issues-pr/monahton/GencoDymo2)](https://github.com/monahton/GencoDymo2/pulls) |
+
 
