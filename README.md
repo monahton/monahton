@@ -10,7 +10,8 @@
 
 <br />
 
-👋 I'm Dr. Monah Abou Alezz, a postdoctoral researcher at San Raffaele Hospital – Telethon Institute of Gene Therapy
+👋 I'm Dr. Monah Abou Alezz, a postdoctoral researcher at San Raffaele Hospital – Telethon Institute of Gene Therapy.  
+You can find more info about me on my [website](https://monahton.github.io/).
 <br />
 
 <br />
