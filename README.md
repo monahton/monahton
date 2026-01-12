@@ -38,7 +38,8 @@ _“The code works” isn’t where you stop; it’s where you start._
 
   <br/>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=monahton&theme=darcula&hide_border=true" width="600"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=monahton&theme=darcula&hide_border=true&background=00000000" width="600"/>
+
   
 </p>
 
