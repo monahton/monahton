@@ -38,8 +38,9 @@ _“The code works” isn’t where you stop; it’s where you start._
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=monahton&theme=darcula&hide_border=true&background=FFFFFF00" width="600"/>
+  <img src="https://streak-stats.demolab.com/api?user=monahton&theme=darcula&hide_border=true&background=FFFFFF00" width="600"/>
 </p>
+
 
 
 
