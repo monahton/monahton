@@ -54,14 +54,15 @@
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img align="left" alt="r" src="https://img.shields.io/badge/r%20-276DC3.svg?&style=for-the-badge&logo=r&logoColor=acadb1" />
-      <img align="left" alt="python" src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=yellow" />
-      <img align="left" alt="bash" src="https://img.shields.io/badge/bash%20-171A21.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
-      <img align="left" alt="perl" src="https://img.shields.io/badge/perl%20-FCC624.svg?&style=for-the-badge&logo=perl&logoColor=purple" />
-      <img align="left" alt="git" src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img alt="r" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+      <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow" />
+      <img alt="bash" src="https://img.shields.io/badge/Bash-171A21?style=flat-square&logo=gnubash&logoColor=white" />
+      <img alt="perl" src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" />
+      <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img alt="sql" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><b>AI / ML</b></td>
     <td>
@@ -72,6 +73,7 @@
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><b>DevOps & Tools</b></td>
     <td>
@@ -102,17 +104,6 @@
 | Package | Website | Issues | Pull Requests | DOI |
 |:-------:|:-------:|:------:|:-------------:|:---:|
 | [NatChat](https://github.com/monahton/NatChat) | [![Website](https://img.shields.io/badge/docs-website-blue)](https://monahton.github.io/NatChat/) | [![GitHub issues](https://img.shields.io/github/issues/monahton/NatChat)](https://github.com/monahton/NatChat/issues) | [![GitHub pulls](https://img.shields.io/github/issues-pr/monahton/NatChat)](https://github.com/monahton/NatChat/pulls) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15482472.svg) |
-| [GencoDymo2](https://github.com/monahton/GencoDymo2) | [![Website](https://img.shields.io/badge/docs-website-blue)](https://monahton.github.io/GencoDymo2/) | [![GitHub issues](https://img.shields.io/github/issues/monahton/GencoDymo2)](https://github.com/monahton/GencoDymo2/issues) | [![GitHub pulls](https://img.shields.io/github/issues-pr/monahton/GencoDymo2)](https://github.com/monahton/GencoDymo2/pulls) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15302316.svg) |
-
-
-
-<h2 align="center">Services</h2>
-
-| | Service | Description |
-|:---:|:---|:---|
-| 💻 | **Front-end Development** | Responsive web and mobile interfaces using Next.js, React Native, and Tailwind CSS. Optimized performance and smooth UX across platforms. |
-| 🎨 | **UI/UX & Graphic Design** | Clean, user-friendly interfaces with Figma, Adobe XD, and Adobe Suite. Branding, marketing visuals, and design systems. |
-| 🎬 | **Video Production** | Tech-focused content using Premiere Pro and After Effects. Tutorials, troubleshooting guides, and explainers. |
 
 ---
 
