@@ -13,11 +13,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=monahton&style=flat-square&color=brightgreen" />
+  
   <a href="https://monahton.github.io">
     <img src="https://img.shields.io/badge/Website-Online-blue?style=flat-square&logo=google-chrome" />
   </a>
+
   <a href="https://monahton.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Online-blue?style=flat-square&logo=briefcase" />
+    <img src="https://img.shields.io/badge/Portfolio-Online-purple?style=flat-square&logo=briefcase" />
   </a>
 </p>
 
