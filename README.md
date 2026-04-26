@@ -112,7 +112,7 @@
 
 <div align="center">
   <a href="https://yourinsights.vercel.app">
-    <img src="https://yourinsights.vercel.app/api/insight?username=monahton&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&cache_seconds=86400" width="100%" />
+    <img src="https://yourinsights.vercel.app/api/insight?username=monahton&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&v=1" width="100%" />
   </a>
 </div>
 
